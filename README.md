@@ -7,9 +7,9 @@ ENG:
 
 CZE:
 
--Zdravím, jmenuji se @AndrewKopera
--Jsem majitel minecraft serveru NarraCraft. | https://discord.gg/a8UfxdhzEs
--Neplánuji postovat.
+- Zdravím, jmenuji se @AndrewKopera
+- Jsem majitel minecraft serveru NarraCraft. | https://discord.gg/a8UfxdhzEs
+- Neplánuji postovat.
 
 
 <!---
